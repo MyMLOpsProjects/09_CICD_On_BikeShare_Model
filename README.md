@@ -1,2 +1,2 @@
-# 09_CICD_On_BikeShare_Model
-CICD on BikeShare dataset
+# 09_CI_On_BikeShare_Model
+CI on BikeShare dataset
