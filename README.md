@@ -1,2 +1,3 @@
 # bikeshare_model
-bikeshare_model CD
+# Adding . to trigger CI
+bikeshare_model CI
